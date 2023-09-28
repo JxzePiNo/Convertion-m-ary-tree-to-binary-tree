@@ -30,6 +30,6 @@ This project was assigned during the course of Algorithm and Data Structure and 
     <li>Return the number of leaf of the tree</li>
     <li>Return the height of the tree</li>
     <li>Return the level of a node</li>
-    <li>Return the string of the tree when the brother of a node are close with square brackets and separate by comma. Example: A[B[E, F], C[G[H, I, L, M]], D]</li>
+    <li>Return the string of the tree when the brother of a node are close with square brackets and separate by comma. <br>Example: A[B[E, F], C[G[H, I, L, M]], D]</li>
   </ol>
 </div>

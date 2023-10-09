@@ -1,6 +1,6 @@
-# Tree-FSSN
+# Convert a m-ary tree to binary tree
 Final examinations of Algorithm and Data Structure of Computer Science, A.A 2022-2023, University of Florence. <br><br>
-This project was assigned during the course of Algorithm and Data Structure and is an implemation in Java of an m-ary tree located and managed by a binary tree rappresented First-Son-Son-Next.
+This project was assigned during the course of Algorithm and Data Structure and is an implemation in Java of an m-ary tree located and managed by a binary tree.
 
 
 
